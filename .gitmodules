@@ -1,6 +1,0 @@
-[submodule "LSTM-Sentiment-Analysis"]
-	path = LSTM-Sentiment-Analysis
-	url = https://github.com/adeshpande3/LSTM-Sentiment-Analysis.git
-[submodule "models"]
-	path = models
-	url = https://github.com/tensorflow/models.git
